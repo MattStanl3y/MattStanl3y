@@ -29,7 +29,7 @@ hobbies = [
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,nextjs,flask,git,github,vscode&theme=light" alt="Languages/Tools" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,vscode&theme=light" alt="Languages/Tools" />
   </a>
 </p>
 
