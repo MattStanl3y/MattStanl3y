@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-Currently a Junior @ University of Nevada, Reno studying Computer Science and Engineering with a minor in Mathematics.
+Currently a Junior @ University of Nevada, Reno studying Computer Science and Engineering with a minor in Statistics.
 
 ## About Me
 
